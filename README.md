@@ -1,10 +1,9 @@
 ## Hi there 👋
 
+I'm currenty doing summer work on LeetCode and HackerRank 
 
-**lizbethsarah/lizbethsarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Add 2 numbers is what i did so far
 
-Here are some ideas to get you started:
-
--  I’m currently working on Digital Electronics
+  and I will be doing more!
  
 
